@@ -8,8 +8,8 @@ Focado no desenvolvimento de soluções web práticas, com interfaces limpas e a
 Atualmente criando sistemas utilizados em contextos reais, com aplicação prática para negócios.
 
 [![GitHub](https://img.shields.io/badge/GitHub-paulorogeriovf-181717?style=flat-square&logo=github)](https://github.com/paulorogeriovf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Paulo%20Rog%C3%A9rio-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/seu-perfil)
-[![Email](https://img.shields.io/badge/Email-contato%40email.com-EA4335?style=flat-square&logo=gmail)](mailto:seu@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Paulo%20Rog%C3%A9rio-0A66C2?style=flat-square&logo=linkedin)]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/paulo-rogerio-394b6b3a6/))
+[![Email](https://img.shields.io/badge/Email-contato%40email.com-EA4335?style=flat-square&logo=gmail)](mailto:paulorogeriovigariofilho@gmail.com)
 
 </div>
 
@@ -28,7 +28,7 @@ Atualmente em transição para as áreas de **Redes e Cibersegurança**, aplican
 | Camada | Tecnologias |
 |---|---|
 | **Frontend** | HTML · CSS · JavaScript |
-| **Backend** | Python |
+| **Backend** | Python . Java |
 | **Banco de Dados** | SQL |
 | **Ferramentas** | Git · GitHub |
 | **Interesses** | UI/UX · Design Responsivo · Aplicações Web |
@@ -40,25 +40,25 @@ Atualmente em transição para as áreas de **Redes e Cibersegurança**, aplican
 ### 🧾 Gerador de Orçamentos
 > Aplicação Web para criação de orçamentos de forma rápida e organizada.
 
-Sistema utilizado em contexto real para otimizar processos comerciais. Focado em praticidade, organização e uso imediato no dia a dia de negócios.
+Sistema utilizado em contexto real para otimizar processos comerciais. Focado em praticidade, organização e uso imediato no dia a dia de negócios, futuramente implemetentação de backend completo .
 
-`HTML` `CSS` `JavaScript` `Python` `Banco de Dados`
+`HTML` `CSS` `JavaScript` 
 
 ---
 
 ### 🛒 Site de Loja
 > Interface de E-commerce moderna e responsiva.
 
-Website desenvolvido com foco em experiência do usuário e conversão. Apresentação clara de produtos com design limpo e adaptado para diferentes dispositivos.
+Website desenvolvido com foco em experiência do usuário e conversão. Apresentação clara de produtos com design limpo e adaptado para diferentes dispositivos conforme o pedido do cliente.
 
-`HTML` `CSS` `JavaScript` `Banco de Dados`
+`HTML` `CSS` `JavaScript`
 
 ---
 
 ### 🚀 Nerdy — Plataforma de Desenvolvimento Web
-> Projeto colaborativo voltado à criação de soluções digitais e ferramentas web.
+> Projeto colaborativo voltado à criação de soluções digitais voltadas a Cybersecurity e ferramentas web.
 
-Participação no desenvolvimento de funcionalidades, estrutura e identidade do projeto. Foco em evolução contínua e construção de ferramentas com propósito real.
+Participação no desenvolvimento de funcionalidades, estrutura e identidade do projeto. Foco em evolução contínua e construção de ferramentas com propósito real para mercado.
 
 `HTML` `CSS` `JavaScript` `Python`
 
@@ -74,9 +74,8 @@ Evoluir para as áreas de **Redes e Cibersegurança**, aplicando a mesma abordag
 
 Aberto a conversas sobre projetos, colaborações ou oportunidades.
 
-- 🐙 GitHub: [github.com/paulorogeriovf](https://github.com/paulorogeriovf)
-- 💼 LinkedIn: [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil) ← *atualize com seu link*
-- 📧 E-mail: `seu@email.com` ← *atualize com seu e-mail*
+- 💼 LinkedIn: [linkedin.com/in/seu-perfil](www.linkedin.com/in/paulo-rogerio-394b6b3a6) 
+- 📧 E-mail: `paulorogeriovigariofilho@gmail.com` 
 
 ---
 
