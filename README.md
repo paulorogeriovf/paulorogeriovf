@@ -13,16 +13,6 @@ Atualmente criando sistemas utilizados em contextos reais, com aplicação prát
 
 </div>
 
----
-
-## Sobre
-
-Desenvolvedor autodidata com foco na criação de projetos reais e evolução contínua através da prática. Experiência no desenvolvimento de aplicações funcionais utilizadas em ambientes reais, com atenção à experiência do usuário, clareza de código e entrega de valor prático.
-
-Atualmente em transição para as áreas de **Redes e Cibersegurança**, aplicando a mesma abordagem prática na construção de soluções e aprofundando conhecimentos em infraestrutura, segurança e automação.
-
----
-
 ## Stack
 
 | Camada | Tecnologias |
@@ -63,12 +53,6 @@ Sistema utilizado em contexto real para otimizar processos comerciais. Focado em
 Website desenvolvido com foco em experiência do usuário e conversão. Apresentação clara de produtos com design limpo e adaptado para diferentes dispositivos conforme o pedido do cliente.
 
 `HTML` `CSS` `JavaScript`
-
----
-
-## Objetivo
-
-Evoluir para as áreas de **Redes e Cibersegurança**, aplicando a mesma abordagem prática que guia meu trabalho no desenvolvimento web — construindo soluções reais, aprofundando conhecimentos em infraestrutura, segurança e automação.
 
 ---
 
