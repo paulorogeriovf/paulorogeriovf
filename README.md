@@ -13,16 +13,6 @@ Atualmente criando sistemas utilizados em contextos reais, com aplicação prát
 
 </div>
 
-## Stack
-
-| Camada | Tecnologias |
-|---|---|
-| **Frontend** | HTML · CSS · JavaScript |
-| **Backend** | Python · Java |
-| **Banco de Dados** | SQL |
-| **Ferramentas** | Git · GitHub |
-| **Interesses** | UI/UX · Design Responsivo · Aplicações Web |
-
 ---
 
 ## Projetos em Destaque
@@ -52,9 +42,24 @@ Sistema utilizado em contexto real para otimizar processos comerciais. Focado em
 
 Website desenvolvido com foco em experiência do usuário e conversão. Apresentação clara de produtos com design limpo e adaptado para diferentes dispositivos conforme o pedido do cliente.
 
+🌐 **Site ao vivo:**  [hydrapiscinas.netlify.app/](https://hydrapiscinas.netlify.app/) 
+
 `HTML` `CSS` `JavaScript`
 
 ---
+
+## Stack
+
+| Camada | Tecnologias |
+|---|---|
+| **Frontend** | HTML · CSS · JavaScript |
+| **Backend** | Python · Java |
+| **Banco de Dados** | SQL |
+| **Ferramentas** | Git · GitHub |
+| **Interesses** | UI/UX · Design Responsivo · Aplicações Web |
+
+---
+
 
 ## Contato
 
