@@ -17,18 +17,18 @@ Atualmente criando sistemas utilizados em contextos reais, com aplicação prát
 
 ## Projetos em Destaque
 
-### 🛡️ Nerdy — Security Intelligence Platform
+### Nerdy — Security Intelligence Platform
 > Projeto colaborativo com site demonstrativo e Dashboard , SIEM com análise automatizada de logs, pontuação de criticidade multifatorial e resposta a ameaças em tempo real.
 
 Faz parsing de logs Nginx e de aplicações web, normaliza eventos para YAML, integra com Elasticsearch e aciona playbooks Ansible para bloqueio automático de IPs em eventos críticos. Referenciado no framework MITRE ATT&CK.
 
-🌐 **Dashboard ao vivo:** [nerdymap-rxvlzwyc.manus.space](https://nerdymap-rxvlzwyc.manus.space)
+ **Dashboard ao vivo:** [nerdymap-rxvlzwyc.manus.space](https://nerdymap-rxvlzwyc.manus.space)
 
 `Python` `Ansible` `Elasticsearch` `Regex` `CI/CD` `MITRE ATT&CK`
 
 ---
 
-### 🧾 Gerador de Orçamentos
+### Gerador de Orçamentos
 > Aplicação Web para criação de orçamentos de forma rápida e organizada.
 
 Sistema utilizado em contexto real para otimizar processos comerciais. Focado em praticidade, organização e uso imediato no dia a dia de negócios. Futuramente com implementação de backend completo.
@@ -37,12 +37,12 @@ Sistema utilizado em contexto real para otimizar processos comerciais. Focado em
 
 ---
 
-### 🛒 Site de Loja
+### Site de Loja
 > Interface de E-commerce moderna e responsiva.
 
 Website desenvolvido com foco em experiência do usuário e conversão. Apresentação clara de produtos com design limpo e adaptado para diferentes dispositivos conforme o pedido do cliente.
 
-🌐 **Site ao vivo:**  [hydrapiscinas.netlify.app/](https://hydrapiscinas.netlify.app/) 
+ **Site ao vivo:**  [hydrapiscinas.netlify.app/](https://hydrapiscinas.netlify.app/) 
 
 `HTML` `CSS` `JavaScript`
 
@@ -57,16 +57,6 @@ Website desenvolvido com foco em experiência do usuário e conversão. Apresent
 | **Banco de Dados** | SQL |
 | **Ferramentas** | Git · GitHub |
 | **Interesses** | UI/UX · Design Responsivo · Aplicações Web |
-
----
-
-
-## Contato
-
-Aberto a conversas sobre projetos, colaborações ou oportunidades.
-
-- 💼 LinkedIn: [linkedin.com/in/paulo-rogerio-394b6b3a6](https://www.linkedin.com/in/paulo-rogerio-394b6b3a6/)
-- 📧 E-mail: [paulorogeriovigariofilho@gmail.com](mailto:paulorogeriovigariofilho@gmail.com)
 
 ---
 
