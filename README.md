@@ -22,7 +22,7 @@ Atualmente criando sistemas utilizados em contextos reais, com aplicação prát
 
 Faz parsing de logs Nginx e de aplicações web, normaliza eventos para YAML, integra com Elasticsearch e aciona playbooks Ansible para bloqueio automático de IPs em eventos críticos. Referenciado no framework MITRE ATT&CK.
 
- **Dashboard ao vivo:** [nerdymap-rxvlzwyc.manus.space](https://nerdymap-rxvlzwyc.manus.space)
+ **Site ao vivo:** [https://nerdysec.dev/](https://nerdysec.dev/)
 
 `Python` `Ansible` `Elasticsearch` `Regex` `CI/CD` `MITRE ATT&CK`
 
