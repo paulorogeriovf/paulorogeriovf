@@ -48,6 +48,15 @@ Website desenvolvido com foco em experiência do usuário e conversão. Apresent
 
 ---
 
+### WebSocket
+> APS - Sistema de Monitoramento Ambiental — Rio Tietê.
+
+Aplicação desktop de comunicação em tempo real desenvolvida em Java com TCP/IP via Berkeley Sockets.
+
+`Java` `TCP/IP` `Swing` `Threads`
+
+---
+
 ## Stack
 
 | Camada | Tecnologias |
