@@ -28,15 +28,6 @@ Faz parsing de logs Nginx e de aplicações web, normaliza eventos para YAML, in
 
 ---
 
-### Gerador de Orçamentos
-> Aplicação Web para criação de orçamentos de forma rápida e organizada.
-
-Sistema utilizado em contexto real para otimizar processos comerciais. Focado em praticidade, organização e uso imediato no dia a dia de negócios. Futuramente com implementação de backend completo.
-
-`HTML` `CSS` `JavaScript`
-
----
-
 ### Site de Loja
 > Interface de E-commerce moderna e responsiva.
 
