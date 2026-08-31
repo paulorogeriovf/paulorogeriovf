@@ -2,14 +2,15 @@
 
 # Paulo Rogério Vigário
 
-**Desenvolvimento Web · Projetos Digitais · São Paulo, Brasil**
+**Desenvolvimento de Software · Sistemas Web · São Paulo, Brasil**
 
-Focado no desenvolvimento de soluções web práticas, com interfaces limpas e aplicações voltadas para uso real.
-Atualmente criando sistemas utilizados em contextos reais, com aplicação prática para negócios.
+Desenvolvedor focado na criação de soluções práticas, unindo desenvolvimento web, banco de dados e automação para resolver problemas reais.
 
-[![GitHub](https://img.shields.io/badge/GitHub-paulorogeriovf-181717?style=flat-square&logo=github)](https://github.com/paulorogeriovf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Paulo%20Rog%C3%A9rio-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/paulo-rogerio-394b6b3a6/)
-[![Email](https://img.shields.io/badge/Email-paulorogeriovigariofilho%40gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:paulorogeriovigariofilho@gmail.com)
+Atualmente desenvolvendo sistemas aplicados a contextos empresariais, além de projetos nas áreas de segurança da informação e redes.
+
+[![GitHub](https://img.shields.io/badge/GitHub-paulorogeriovf-181717?style=flat-square\&logo=github)](https://github.com/paulorogeriovf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Paulo%20Rog%C3%A9rio-0A66C2?style=flat-square\&logo=linkedin)](https://www.linkedin.com/in/paulo-rogerio-394b6b3a6/)
+[![Email](https://img.shields.io/badge/Email-paulorogeriovigariofilho%40gmail.com-EA4335?style=flat-square\&logo=gmail)](mailto:paulorogeriovigariofilho@gmail.com)
 
 </div>
 
@@ -17,49 +18,65 @@ Atualmente criando sistemas utilizados em contextos reais, com aplicação prát
 
 ## Projetos em Destaque
 
-### Nerdy — Security Intelligence Platform
-> Projeto colaborativo com site demonstrativo e Dashboard , SIEM com análise automatizada de logs, pontuação de criticidade multifatorial e resposta a ameaças em tempo real.
+### 🌊 Hydra ERP — Sistema de Gestão Empresarial
 
-Faz parsing de logs Nginx e de aplicações web, normaliza eventos para YAML, integra com Elasticsearch e aciona playbooks Ansible para bloqueio automático de IPs em eventos críticos. Referenciado no framework MITRE ATT&CK.
+> ERP desenvolvido para centralizar processos comerciais, financeiros e operacionais de uma empresa do setor de piscinas.
 
- **Site ao vivo:** [https://nerdysec.dev/](https://nerdysec.dev/)
+Sistema web desenvolvido com Flask e MySQL, estruturado para utilização em um cenário empresarial real.
+
+Possui gerenciamento de clientes, piscineiros e produtos, controle de vendas por notinhas, pagamentos parciais, cobranças, comissões, histórico de movimentações, geração de orçamentos e indicadores comerciais.
+
+Também possui inteligência de vendas baseada no histórico de compras, identificação de oportunidades comerciais e sistema de backup do banco de dados e arquivos.
+
+O projeto aplica separação entre **models, routes e services**, banco relacional com SQLAlchemy e migrations, além de interface responsiva para operação diária.
+
+**Repositório:** [github.com/paulorogeriovf/hydra-erp](https://github.com/paulorogeriovf/hydra-erp)
+
+**Site institucional relacionado:** [hydrapiscinas.netlify.app](https://hydrapiscinas.netlify.app/)
+
+`Python` `Flask` `MySQL` `SQLAlchemy` `JavaScript` `HTML` `CSS` `Chart.js` `Git`
+
+---
+
+### 🛡️ Nerdy — Security Intelligence Platform
+
+> Projeto colaborativo de SIEM com análise automatizada de logs, classificação de criticidade e resposta automatizada a ameaças.
+
+Realiza parsing de logs Nginx e aplicações web, normalização de eventos, integração com Elasticsearch e execução de playbooks Ansible para resposta automática a eventos críticos.
+
+O projeto utiliza referências do framework MITRE ATT&CK e possui site demonstrativo e dashboard.
+
+**Site ao vivo:** [nerdysec.dev](https://nerdysec.dev/)
 
 `Python` `Ansible` `Elasticsearch` `Regex` `CI/CD` `MITRE ATT&CK`
 
 ---
 
-### Site de Loja
-> Interface de E-commerce moderna e responsiva.
+### 🌐 WebSocket — Monitoramento Ambiental
 
-Website desenvolvido com foco em experiência do usuário e conversão. Apresentação clara de produtos com design limpo e adaptado para diferentes dispositivos conforme o pedido do cliente.
+> APS — Sistema de Monitoramento Ambiental do Rio Tietê.
 
- **Site ao vivo:**  [hydrapiscinas.netlify.app/](https://hydrapiscinas.netlify.app/) 
+Aplicação desktop desenvolvida em Java para comunicação em tempo real utilizando TCP/IP via Berkeley Sockets.
 
-`HTML` `CSS` `JavaScript`
+O projeto trabalha conceitos de comunicação cliente-servidor, concorrência e troca de informações pela rede.
 
----
-
-### WebSocket
-> APS - Sistema de Monitoramento Ambiental — Rio Tietê.
-
-Aplicação desktop de comunicação em tempo real desenvolvida em Java com TCP/IP via Berkeley Sockets.
-
-`Java` `TCP/IP` `Swing` `Threads`
+`Java` `TCP/IP` `Swing` `Threads` `Sockets`
 
 ---
 
 ## Stack
 
-| Camada | Tecnologias |
-|---|---|
-| **Frontend** | HTML · CSS · JavaScript |
-| **Backend** | Python · Java |
-| **Banco de Dados** | SQL |
-| **Ferramentas** | Git · GitHub |
-| **Interesses** | UI/UX · Design Responsivo · Aplicações Web |
+| Área               | Tecnologias                                                  |
+| ------------------ | ------------------------------------------------------------ |
+| **Frontend**       | HTML · CSS · JavaScript · Chart.js                           |
+| **Backend**        | Python · Flask · Java                                        |
+| **Banco de Dados** | MySQL · SQL · SQLAlchemy                                     |
+| **Ferramentas**    | Git · GitHub · VS Code · MySQL Workbench                     |
+| **Conhecimentos**  | APIs · MVC · Redes · Orientação a Objetos · Banco de Dados   |
+| **Interesses**     | Desenvolvimento Web · Cibersegurança · Sistemas Empresariais |
 
 ---
 
 <div align="center">
-<sub>São Paulo, Brasil · Disponível para novos projetos</sub>
+<sub>São Paulo, Brasil · Desenvolvimento de soluções aplicadas a problemas reais</sub>
 </div>
