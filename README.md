@@ -61,7 +61,7 @@ Interactive web application that combines theoretical content with practical exp
 
 ## Stack
 
-| Área               | Tecnologias                                                  |
+| Area               | Technologies                                                 |
 | ------------------ | ------------------------------------------------------------ |
 | **Frontend**       | HTML · CSS · JavaScript · Chart.js                           |
 | **Backend**        | Python · Flask · Java                                        |
