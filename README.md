@@ -47,15 +47,17 @@ The project uses references from the MITRE ATT&CK framework and includes a demon
 
 ---
 
-### PixelCipher Lab — Image Security & Steganography
+### I.S.I.S — Academic Portfolio Platform
 
-> Educational platform focused on image filtering, cryptography and steganography.
+> Custom academic portfolio with a secure admin dashboard, built for a Biomedical Science student.
 
-Interactive web application that combines theoretical content with practical experiments involving digital image processing, cryptography and techniques for hiding and recovering information within images.
+Web platform developed for a real client to present her academic background, abstracts and certificates. It includes searchable libraries with filters, an individual page for each abstract, automatic highlighting of the latest content and a fully responsive layout.
 
-**Live website:** [pixelcipherlab.netlify.app](https://pixelcipherlab.netlify.app/)
+It also has a protected admin area where the client manages all content on her own, including profile, résumé, abstracts, certificates and file uploads, without touching the code. Access is controlled with Supabase Authentication, Row Level Security policies and separate public and private storage buckets.
 
-`Steganography` `Cryptography` `Image Processing` `JavaScript` `HTML`
+**Live website:** [isis-portfolio.netlify.app](https://isis-portfolio.netlify.app/)
+
+`HTML` `CSS` `JavaScript` `Supabase` `PostgreSQL` `Row Level Security` `Netlify`
 
 ---
 
