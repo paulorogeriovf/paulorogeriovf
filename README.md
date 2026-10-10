@@ -69,11 +69,7 @@ It also has a protected admin area where the client manages all content on her o
 | **Backend**        | Python · Flask · Java                                        |
 | **Databases**      | MySQL · SQL · SQLAlchemy                                     |
 | **Tools**          | Git · GitHub · VS Code · MySQL Workbench                     |
-| **Knowledge**      | APIs · MVC · Networking · OOP · Databases                    |
+| **Knowledge**      | APIs · MVC · Networking · OOP                                |
 | **Interests**      | Web Development · Cybersecurity · Business Systems           |
 
 ---
-
-<div align="center">
-<sub> São Paulo, Brazil · Developing solutions applied to real-world problems</sub>
-</div>
