@@ -1,6 +1,6 @@
 <div align="center">
 
-# Paulo Rogério Vigário
+# Paulo Rogerio Vigário
 
 **Software Development · Web Systems · São Paulo, Brazil**
 
