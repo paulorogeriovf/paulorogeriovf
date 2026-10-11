@@ -67,7 +67,7 @@ It also has a protected admin area where the client manages all content on her o
 | ------------------ | ------------------------------------------------------------ |
 | **Frontend**       | HTML · CSS · JavaScript · Chart.js                           |
 | **Backend**        | Python · Flask · Java                                        |
-| **Databases**      | MySQL · SQL · SQLAlchemy                                     |
+| **Databases**      | MySQL · SQL · SQLAlchemy · Supabase                          |
 | **Tools**          | Git · GitHub · VS Code · MySQL Workbench                     |
 | **Knowledge**      | APIs · MVC · Networking · OOP                                |
 | **Interests**      | Web Development · Cybersecurity · Business Systems           |
