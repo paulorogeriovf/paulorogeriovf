@@ -27,7 +27,7 @@ It provides management of customers, pool professionals and products, sales trac
 
 It also includes sales intelligence based on purchase history, identification of business opportunities and a backup system for the database and files.
 
-**Related company website:** [hydrapiscinas.netlify.app](https://hydrapiscinas.netlify.app/)
+**Related company website:** [hydrapiscinas.com.br](https://hydrapiscinas.com.br/)
 
 `Python` `Flask` `MySQL` `SQLAlchemy` `JavaScript` `HTML` `CSS` `Chart.js` `Git`
 
